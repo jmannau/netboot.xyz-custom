@@ -5,7 +5,7 @@
 
 goto ${menu}
 
-:ubuntuJames
+:ubuntu
 set os Ubuntu
 set os_arch ${arch}
 iseq ${os_arch} x86_64 && set os_arch amd64 ||
