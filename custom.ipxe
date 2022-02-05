@@ -3,7 +3,7 @@
 # Ubuntu Operating System
 # https://www.ubuntu.com
 
-goto ${menu}
+# goto ${menu}
 
 :ubuntu
 set os Ubuntu
